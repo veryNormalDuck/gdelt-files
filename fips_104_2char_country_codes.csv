@@ -1,0 +1,288 @@
+Code,Label
+AA,Aruba
+AC,Antigua And Barbuda
+AE,United Arab Emirates
+AF,Afghanistan
+AG,Algeria
+AJ,Azerbaijan
+AL,Albania
+AM,Armenia
+AN,Andorra
+AO,Angola
+AQ,American Samoa
+AR,Argentina
+AS,Australia
+AT,Ashmore And Cartier Islands
+AU,Austria
+AV,Anguilla
+AX,Akrotiri Sovereign Base Area
+AY,Antarctica
+BA,Bahrain
+BB,Barbados
+BC,Botswana
+BD,Bermuda
+BE,Belgium
+BF,"Bahamas, The"
+BG,Bangladesh
+BH,Belize
+BK,Bosnia And Herzegovina
+BL,Bolivia
+BM,Burma
+BN,Benin
+BO,Belarus
+BP,Solomon Islands
+BQ,Navassa Island
+BR,Brazil
+BS,Bassas Da India
+BT,Bhutan
+BU,Bulgaria
+BV,Bouvet Island
+BX,Brunei
+BY,Burundi
+BZ,"Germany, Berlin"
+CA,Canada
+CB,Cambodia
+CD,Chad
+CE,Sri Lanka
+CF,Congo
+CG,Congo Democratic Republic Of The
+CH,China
+CI,Chile
+CJ,Cayman Islands
+CK,Cocos Keeling Islands
+CM,Cameroon
+CN,Comoros
+CO,Colombia
+CQ,Northern Mariana Islands
+CR,Coral Sea Islands
+CS,Costa Rica
+CT,Central African Republic
+CU,Cuba
+CV,Cape Verde
+CW,Cook Islands
+CY,Cyprus
+CZ,Czechoslovakia
+DA,Denmark
+DJ,Djibouti
+DO,Dominica
+DQ,Jarvis Island
+DR,Dominican Republic
+DX,Dhekelia Sovereign Base Area
+EC,Ecuador
+EG,Egypt
+EI,Ireland
+EK,Equatorial Guinea
+EN,Estonia
+ER,Eritrea
+ES,El Salvador
+ET,Ethiopia
+EU,Europa Island
+EZ,Czech Republic
+FA,Falkland Islands Islas Malvinas
+FG,French Guiana
+FI,Finland
+FJ,Fiji
+FK,Falkland Islands Islas Malvinas
+FM,Federated States Of Micronesia
+FO,Faroe Islands
+FP,French Polynesia
+FQ,Baker Island
+FR,France
+FS,French Southern And Antarctic Lands
+GA,"Gambia, The"
+GB,Gabon
+GC,German Democratic Republic
+GE,"Germany, Federal Republic Of"
+GG,Georgia
+GH,Ghana
+GI,Gibraltar
+GJ,Grenada
+GK,Guernsey
+GL,Greenland
+GM,Germany
+GO,Glorioso Islands
+GP,Guadeloupe
+GQ,Guam
+GR,Greece
+GT,Guatemala
+GV,Guinea
+GY,Guyana
+GZ,Gaza Strip
+HA,Haiti
+HK,Hong Kong
+HM,Heard Island And Mcdonald Islands
+HO,Honduras
+HQ,Howland Island
+HR,Croatia
+HU,Hungary
+IC,Iceland
+ID,Indonesia
+IM,"Man, Isle Of"
+IN,India
+IO,British Indian Ocean Territory
+IP,Clipperton Island
+IR,Iran
+IS,Israel
+IT,Italy
+IV,Cote D Ivoire
+IY,Iraq Saudi Arabia Neutral Zone
+IZ,Iraq
+JA,Japan
+JE,Jersey
+JM,Jamaica
+JN,Jan Mayen
+JO,Jordan
+JQ,Johnston Atoll
+JU,Juan De Nova Island
+KE,Kenya
+KG,Kyrgyzstan
+KN,"Korea, Democratic People S Republic Of"
+KQ,Kingman Reef
+KR,Kiribati
+KS,"Korea, Republic Of"
+KT,Christmas Island
+KU,Kuwait
+KV,Kosovo
+KZ,Kazakhstan
+LA,Laos
+LE,Lebanon
+LG,Latvia
+LH,Lithuania
+LI,Liberia
+LO,Slovakia
+LQ,Palmyra Atoll
+LS,Liechtenstein
+LT,Lesotho
+LU,Luxembourg
+LY,Libya
+MA,Madagascar
+MB,Martinique
+MC,Macau
+MD,Moldova
+MF,Mayotte
+MG,Mongolia
+MH,Montserrat
+MI,Malawi
+MJ,Montenegro
+MK,Macedonia
+ML,Mali
+MN,Monaco
+MO,Morocco
+MP,Mauritius
+MQ,Midway Islands
+MR,Mauritania
+MT,Malta
+MU,Oman
+MV,Maldives
+MW,Montenegro
+MX,Mexico
+MY,Malaysia
+MZ,Mozambique
+NA,Netherlands Antilles
+NC,New Caledonia
+NE,Niue
+NF,Norfolk Island
+NG,Niger
+NH,Vanuatu
+NI,Nigeria
+NL,Netherlands
+NO,Norway
+NP,Nepal
+NQ,Trust Territory Of The Pacific Islands
+NR,Nauru
+NS,Suriname
+NT,Netherlands Antilles
+NU,Nicaragua
+NZ,New Zealand
+PA,Paraguay
+PC,Pitcairn Islands
+PE,Peru
+PF,Paracel Islands
+PG,Spratly Islands
+PJ,"Etorofu, Habomai, Kunashiri And Shikotan Islands"
+PK,Pakistan
+PL,Poland
+PM,Panama
+PO,Portugal
+PP,Papua New Guinea
+PS,Palau
+PU,Guinea Bissau
+QA,Qatar
+RB,Serbia
+RE,Reunion
+RI,Serbia
+RM,Marshall Islands
+RN,Saint Martin
+RO,Romania
+RP,Philippines
+RQ,Puerto Rico
+RS,Russia
+RW,Rwanda
+SA,Saudi Arabia
+SB,St Pierre And Miquelon
+SC,St Kitts And Nevis
+SE,Seychelles
+SF,South Africa
+SG,Senegal
+SH,St Helena
+SI,Slovenia
+SL,Sierra Leone
+SM,San Marino
+SN,Singapore
+SO,Somalia
+SP,Spain
+SR,Serbia
+ST,St Lucia
+SU,Sudan
+SV,Svalbard
+SW,Sweden
+SX,South Georgia And The South Sandwich Islands
+SY,Syria
+SZ,Switzerland
+TB,Saint Barthelemy
+TC,United Arab Emirates
+TD,Trinidad
+TE,Tromelin Island
+TH,Thailand
+TI,Tajikistan
+TK,Turks And Caicos Islands
+TL,Tokelau
+TN,Tonga
+TO,Togo
+TP,Sao Tome And Principe
+TS,Tunisia
+TT,Timor Leste
+TU,Turkey
+TV,Tuvalu
+TW,Taiwan
+TX,Turkmenistan
+TZ,Tanzania
+UG,Uganda
+UK,United Kingdom
+UP,Ukraine
+UR,Union Of Soviet Socialst Republics
+US,United States
+UU,Undesignated Sovereignty
+UV,Burkina Faso
+UY,Uruguay
+UZ,Uzbekistan
+VC,St Vincent And The Grenadines
+VE,Venezuela
+VI,British Virgin Islands
+VM,Vietnam
+VQ,Virgin Islands
+VT,Vatican City
+WA,Namibia
+WE,West Bank
+WF,Wallis And Futuna
+WI,Western Sahara
+WQ,Wake Island
+WS,Samoa
+WZ,Swaziland
+YE,Yemen Sanaa
+YI,Serbia And Montenegro
+YM,Yemen
+YO,Yugoslavia
+YS,Yemen Aden
+ZA,Zambia
+ZI,Zimbabwe
