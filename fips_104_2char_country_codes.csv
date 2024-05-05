@@ -1,6 +1,6 @@
 Code,Label
 AA,Aruba
-AC,Antigua And Barbuda
+AC,Antigua and Barbuda
 AE,United Arab Emirates
 AF,Afghanistan
 AG,Algeria
@@ -12,7 +12,7 @@ AO,Angola
 AQ,American Samoa
 AR,Argentina
 AS,Australia
-AT,Ashmore And Cartier Islands
+AT,Ashmore and Cartier Islands
 AU,Austria
 AV,Anguilla
 AX,Akrotiri Sovereign Base Area
@@ -27,25 +27,25 @@ BG,Bangladesh
 BH,Belize
 BK,Bosnia And Herzegovina
 BL,Bolivia
-BM,Burma
+BM,Myanmar
 BN,Benin
 BO,Belarus
 BP,Solomon Islands
 BQ,Navassa Island
 BR,Brazil
-BS,Bassas Da India
+BS,Bassas da India
 BT,Bhutan
 BU,Bulgaria
 BV,Bouvet Island
 BX,Brunei
 BY,Burundi
-BZ,"Germany, Berlin"
+BZ,"Berlin, Germany"
 CA,Canada
 CB,Cambodia
 CD,Chad
 CE,Sri Lanka
 CF,Congo
-CG,Congo Democratic Republic Of The
+CG,Democratic Republic of the Congo
 CH,China
 CI,Chile
 CJ,Cayman Islands
@@ -83,16 +83,16 @@ FG,French Guiana
 FI,Finland
 FJ,Fiji
 FK,Falkland Islands Islas Malvinas
-FM,Federated States Of Micronesia
+FM,Micronesia
 FO,Faroe Islands
 FP,French Polynesia
 FQ,Baker Island
 FR,France
-FS,French Southern And Antarctic Lands
-GA,"Gambia, The"
+FS,French Southern and Antarctic Lands
+GA,Gambia
 GB,Gabon
 GC,German Democratic Republic
-GE,"Germany, Federal Republic Of"
+GE,Federal Republic Of Germany
 GG,Georgia
 GH,Ghana
 GI,Gibraltar
@@ -105,26 +105,26 @@ GP,Guadeloupe
 GQ,Guam
 GR,Greece
 GT,Guatemala
-GV,Guinea
+GV,Equatorial Guinea
 GY,Guyana
 GZ,Gaza Strip
 HA,Haiti
 HK,Hong Kong
-HM,Heard Island And Mcdonald Islands
+HM,Heard Island and McDonald Islands
 HO,Honduras
 HQ,Howland Island
 HR,Croatia
 HU,Hungary
 IC,Iceland
 ID,Indonesia
-IM,"Man, Isle Of"
+IM,Isle of Man
 IN,India
 IO,British Indian Ocean Territory
 IP,Clipperton Island
 IR,Iran
 IS,Israel
 IT,Italy
-IV,Cote D Ivoire
+IV,Cote dIvoire
 IY,Iraq Saudi Arabia Neutral Zone
 IZ,Iraq
 JA,Japan
@@ -133,13 +133,13 @@ JM,Jamaica
 JN,Jan Mayen
 JO,Jordan
 JQ,Johnston Atoll
-JU,Juan De Nova Island
+JU,Juan de Nova Island
 KE,Kenya
 KG,Kyrgyzstan
-KN,"Korea, Democratic People S Republic Of"
+KN,North Korea
 KQ,Kingman Reef
 KR,Kiribati
-KS,"Korea, Republic Of"
+KS,South Korea
 KT,Christmas Island
 KU,Kuwait
 KV,Kosovo
@@ -199,14 +199,14 @@ PC,Pitcairn Islands
 PE,Peru
 PF,Paracel Islands
 PG,Spratly Islands
-PJ,"Etorofu, Habomai, Kunashiri And Shikotan Islands"
+PJ,"Etorofu, Habomai, Kunashiri and Shikotan Islands"
 PK,Pakistan
 PL,Poland
 PM,Panama
 PO,Portugal
 PP,Papua New Guinea
 PS,Palau
-PU,Guinea Bissau
+PU,Guinea-Bissau
 QA,Qatar
 RB,Serbia
 RE,Reunion
@@ -219,12 +219,12 @@ RQ,Puerto Rico
 RS,Russia
 RW,Rwanda
 SA,Saudi Arabia
-SB,St Pierre And Miquelon
-SC,St Kitts And Nevis
+SB,Saint Pierre and Miquelon
+SC,Saint Kitts and Nevis
 SE,Seychelles
 SF,South Africa
 SG,Senegal
-SH,St Helena
+SH,Saint Helena
 SI,Slovenia
 SL,Sierra Leone
 SM,San Marino
@@ -232,26 +232,26 @@ SN,Singapore
 SO,Somalia
 SP,Spain
 SR,Serbia
-ST,St Lucia
+ST,Saint Lucia
 SU,Sudan
 SV,Svalbard
 SW,Sweden
-SX,South Georgia And The South Sandwich Islands
+SX,South Georgia and the South Sandwich Islands
 SY,Syria
 SZ,Switzerland
-TB,Saint Barthelemy
+TB,Saint-Barthelemy Island
 TC,United Arab Emirates
-TD,Trinidad
+TD,Trinidad and Tobago
 TE,Tromelin Island
 TH,Thailand
 TI,Tajikistan
-TK,Turks And Caicos Islands
+TK,Turks and Caicos Islands
 TL,Tokelau
 TN,Tonga
 TO,Togo
-TP,Sao Tome And Principe
+TP,Sao Tome and Principe
 TS,Tunisia
-TT,Timor Leste
+TT,East Timor
 TU,Turkey
 TV,Tuvalu
 TW,Taiwan
@@ -266,7 +266,7 @@ UU,Undesignated Sovereignty
 UV,Burkina Faso
 UY,Uruguay
 UZ,Uzbekistan
-VC,St Vincent And The Grenadines
+VC,Saint Vincent and the Grenadines
 VE,Venezuela
 VI,British Virgin Islands
 VM,Vietnam
@@ -274,7 +274,7 @@ VQ,Virgin Islands
 VT,Vatican City
 WA,Namibia
 WE,West Bank
-WF,Wallis And Futuna
+WF,Wallis and Futuna
 WI,Western Sahara
 WQ,Wake Island
 WS,Samoa
