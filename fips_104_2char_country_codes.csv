@@ -1,288 +1,292 @@
-Code,Label
-AA,Aruba
-AC,Antigua and Barbuda
-AE,United Arab Emirates
-AF,Afghanistan
-AG,Algeria
-AJ,Azerbaijan
-AL,Albania
-AM,Armenia
-AN,Andorra
-AO,Angola
-AQ,American Samoa
-AR,Argentina
-AS,Australia
-AT,Ashmore and Cartier Islands
-AU,Austria
-AV,Anguilla
-AX,Akrotiri Sovereign Base Area
-AY,Antarctica
-BA,Bahrain
-BB,Barbados
-BC,Botswana
-BD,Bermuda
-BE,Belgium
-BF,"Bahamas, The"
-BG,Bangladesh
-BH,Belize
-BK,Bosnia And Herzegovina
-BL,Bolivia
-BM,Myanmar
-BN,Benin
-BO,Belarus
-BP,Solomon Islands
-BQ,Navassa Island
-BR,Brazil
-BS,Bassas da India
-BT,Bhutan
-BU,Bulgaria
-BV,Bouvet Island
-BX,Brunei
-BY,Burundi
-BZ,"Berlin, Germany"
-CA,Canada
-CB,Cambodia
-CD,Chad
-CE,Sri Lanka
-CF,Congo
-CG,Democratic Republic of the Congo
-CH,China
-CI,Chile
-CJ,Cayman Islands
-CK,Cocos Keeling Islands
-CM,Cameroon
-CN,Comoros
-CO,Colombia
-CQ,Northern Mariana Islands
-CR,Coral Sea Islands
-CS,Costa Rica
-CT,Central African Republic
-CU,Cuba
-CV,Cape Verde
-CW,Cook Islands
-CY,Cyprus
-CZ,Czechoslovakia
-DA,Denmark
-DJ,Djibouti
-DO,Dominica
-DQ,Jarvis Island
-DR,Dominican Republic
-DX,Dhekelia Sovereign Base Area
-EC,Ecuador
-EG,Egypt
-EI,Ireland
-EK,Equatorial Guinea
-EN,Estonia
-ER,Eritrea
-ES,El Salvador
-ET,Ethiopia
-EU,Europa Island
-EZ,Czech Republic
-FA,Falkland Islands Islas Malvinas
-FG,French Guiana
-FI,Finland
-FJ,Fiji
-FK,Falkland Islands Islas Malvinas
-FM,Micronesia
-FO,Faroe Islands
-FP,French Polynesia
-FQ,Baker Island
-FR,France
-FS,French Southern and Antarctic Lands
-GA,Gambia
-GB,Gabon
-GC,German Democratic Republic
-GE,Federal Republic Of Germany
-GG,Georgia
-GH,Ghana
-GI,Gibraltar
-GJ,Grenada
-GK,Guernsey
-GL,Greenland
-GM,Germany
-GO,Glorioso Islands
-GP,Guadeloupe
-GQ,Guam
-GR,Greece
-GT,Guatemala
-GV,Equatorial Guinea
-GY,Guyana
-GZ,Gaza Strip
-HA,Haiti
-HK,Hong Kong
-HM,Heard Island and McDonald Islands
-HO,Honduras
-HQ,Howland Island
-HR,Croatia
-HU,Hungary
-IC,Iceland
-ID,Indonesia
-IM,Isle of Man
-IN,India
-IO,British Indian Ocean Territory
-IP,Clipperton Island
-IR,Iran
-IS,Israel
-IT,Italy
-IV,Cote dIvoire
-IY,Iraq Saudi Arabia Neutral Zone
-IZ,Iraq
-JA,Japan
-JE,Jersey
-JM,Jamaica
-JN,Jan Mayen
-JO,Jordan
-JQ,Johnston Atoll
-JU,Juan de Nova Island
-KE,Kenya
-KG,Kyrgyzstan
-KN,North Korea
-KQ,Kingman Reef
-KR,Kiribati
-KS,South Korea
-KT,Christmas Island
-KU,Kuwait
-KV,Kosovo
-KZ,Kazakhstan
-LA,Laos
-LE,Lebanon
-LG,Latvia
-LH,Lithuania
-LI,Liberia
-LO,Slovakia
-LQ,Palmyra Atoll
-LS,Liechtenstein
-LT,Lesotho
-LU,Luxembourg
-LY,Libya
-MA,Madagascar
-MB,Martinique
-MC,Macau
-MD,Moldova
-MF,Mayotte
-MG,Mongolia
-MH,Montserrat
-MI,Malawi
-MJ,Montenegro
-MK,Macedonia
-ML,Mali
-MN,Monaco
-MO,Morocco
-MP,Mauritius
-MQ,Midway Islands
-MR,Mauritania
-MT,Malta
-MU,Oman
-MV,Maldives
-MW,Montenegro
-MX,Mexico
-MY,Malaysia
-MZ,Mozambique
-NA,Netherlands Antilles
-NC,New Caledonia
-NE,Niue
-NF,Norfolk Island
-NG,Niger
-NH,Vanuatu
-NI,Nigeria
-NL,Netherlands
-NO,Norway
-NP,Nepal
-NQ,Trust Territory Of The Pacific Islands
-NR,Nauru
-NS,Suriname
-NT,Netherlands Antilles
-NU,Nicaragua
-NZ,New Zealand
-PA,Paraguay
-PC,Pitcairn Islands
-PE,Peru
-PF,Paracel Islands
-PG,Spratly Islands
-PJ,"Etorofu, Habomai, Kunashiri and Shikotan Islands"
-PK,Pakistan
-PL,Poland
-PM,Panama
-PO,Portugal
-PP,Papua New Guinea
-PS,Palau
-PU,Guinea-Bissau
-QA,Qatar
-RB,Serbia
-RE,Reunion
-RI,Serbia
-RM,Marshall Islands
-RN,Saint Martin
-RO,Romania
-RP,Philippines
-RQ,Puerto Rico
-RS,Russia
-RW,Rwanda
-SA,Saudi Arabia
-SB,Saint Pierre and Miquelon
-SC,Saint Kitts and Nevis
-SE,Seychelles
-SF,South Africa
-SG,Senegal
-SH,Saint Helena
-SI,Slovenia
-SL,Sierra Leone
-SM,San Marino
-SN,Singapore
-SO,Somalia
-SP,Spain
-SR,Serbia
-ST,Saint Lucia
-SU,Sudan
-SV,Svalbard
-SW,Sweden
-SX,South Georgia and the South Sandwich Islands
-SY,Syria
-SZ,Switzerland
-TB,Saint-Barthelemy Island
-TC,United Arab Emirates
-TD,Trinidad and Tobago
-TE,Tromelin Island
-TH,Thailand
-TI,Tajikistan
-TK,Turks and Caicos Islands
-TL,Tokelau
-TN,Tonga
-TO,Togo
-TP,Sao Tome and Principe
-TS,Tunisia
-TT,East Timor
-TU,Turkey
-TV,Tuvalu
-TW,Taiwan
-TX,Turkmenistan
-TZ,Tanzania
-UG,Uganda
-UK,United Kingdom
-UP,Ukraine
-UR,Union Of Soviet Socialst Republics
-US,United States
-UU,Undesignated Sovereignty
-UV,Burkina Faso
-UY,Uruguay
-UZ,Uzbekistan
-VC,Saint Vincent and the Grenadines
-VE,Venezuela
-VI,British Virgin Islands
-VM,Vietnam
-VQ,Virgin Islands
-VT,Vatican City
-WA,Namibia
-WE,West Bank
-WF,Wallis and Futuna
-WI,Western Sahara
-WQ,Wake Island
-WS,Samoa
-WZ,Swaziland
-YE,Yemen Sanaa
-YI,Serbia And Montenegro
-YM,Yemen
-YO,Yugoslavia
-YS,Yemen Aden
-ZA,Zambia
-ZI,Zimbabwe
+Code,RawLabel,ProcLabel
+AF,AFGHANISTAN,Afghanistan
+AX,AKROTIRI SOVEREIGN BASE AREA,Akrotiri Sovereign Base Area
+AL,ALBANIA,Albania
+AG,ALGERIA,Algeria
+AQ,AMERICAN SAMOA,American Samoa
+AN,ANDORRA,Andorra
+AO,ANGOLA,Angola
+AV,ANGUILLA,Anguilla
+AY,ANTARCTICA,Antarctica
+AC,ANTIGUA AND BARBUDA,Antigua And Barbuda
+AR,ARGENTINA,Argentina
+AM,ARMENIA,Armenia
+AA,ARUBA,Aruba
+AT,ASHMORE AND CARTIER ISLANDS,Ashmore And Cartier Islands
+AS,AUSTRALIA,Australia
+AU,AUSTRIA,Austria
+AJ,AZERBAIJAN,Azerbaijan
+BF,"BAHAMAS, THE",Bahamas
+BA,BAHRAIN,Bahrain
+FQ,BAKER ISLAND,Baker Island
+BG,BANGLADESH,Bangladesh
+BB,BARBADOS,Barbados
+BS,BASSAS DA INDIA,Bassas Da India
+BO,BELARUS,Belarus
+BE,BELGIUM,Belgium
+BH,BELIZE,Belize
+BN,BENIN,Benin
+BZ,"GERMANY, BERLIN","Berlin, Germany"
+BD,BERMUDA,Bermuda
+BT,BHUTAN,Bhutan
+BL,BOLIVIA,Bolivia
+BK,BOSNIA AND HERZEGOVINA,Bosnia And Herzegovina
+BC,BOTSWANA,Botswana
+BV,BOUVET ISLAND,Bouvet Island
+BR,BRAZIL,Brazil
+IO,BRITISH INDIAN OCEAN TERRITORY,British Indian Ocean Territory
+VI,BRITISH VIRGIN ISLANDS,British Virgin Islands
+BX,BRUNEI,Brunei
+BU,BULGARIA,Bulgaria
+UV,BURKINA FASO,Burkina Faso
+BY,BURUNDI,Burundi
+CB,CAMBODIA,Cambodia
+CM,CAMEROON,Cameroon
+CA,CANADA,Canada
+CV,CAPE VERDE,Cape Verde
+CJ,CAYMAN ISLANDS,Cayman Islands
+CT,CENTRAL AFRICAN REPUBLIC,Central African Republic
+CD,CHAD,Chad
+CI,CHILE,Chile
+CH,CHINA,China
+KT,CHRISTMAS ISLAND,Christmas Island
+IP,CLIPPERTON ISLAND,Clipperton Island
+CK,COCOS (KEELING) ISLANDS,Cocos (Keeling) Islands
+CO,COLOMBIA,Colombia
+CN,COMOROS,Comoros
+CF,CONGO,Congo
+CW,COOK ISLANDS,Cook Islands
+CR,CORAL SEA ISLANDS,Coral Sea Islands
+CS,COSTA RICA,Costa Rica
+IV,COTE D'IVOIRE,Cote Divoire
+HR,CROATIA,Croatia
+CU,CUBA,Cuba
+CY,CYPRUS,Cyprus
+EZ,CZECH REPUBLIC,Czech Republic
+CZ,CZECHOSLOVAKIA,Czechoslovakia
+CG,CONGO (DEMOCRATIC REPUBLIC OF THE),Democratic Republic Of The Congo
+DA,DENMARK,Denmark
+DX,DHEKELIA SOVEREIGN BASE AREA,Dhekelia Sovereign Base Area
+DJ,DJIBOUTI,Djibouti
+DO,DOMINICA,Dominica
+DR,DOMINICAN REPUBLIC,Dominican Republic
+EC,ECUADOR,Ecuador
+EG,EGYPT,Egypt
+ES,EL SALVADOR,El Salvador
+EK,EQUATORIAL GUINEA,Equatorial Guinea
+ER,ERITREA,Eritrea
+EN,ESTONIA,Estonia
+ET,ETHIOPIA,Ethiopia
+PJ,"ETOROFU, HABOMAI, KUNASHIRI AND SHIKOTAN ISLANDS","Etorofu, Habomai, Kunashiri And Shikotan Islands"
+EU,EUROPA ISLAND,Europa Island
+FA,FALKLAND ISLANDS (ISLAS MALVINAS),Falkland Islands (Islas Malvinas)
+FK,FALKLAND ISLANDS (ISLAS MALVINAS),Falkland Islands (Islas Malvinas)
+FO,FAROE ISLANDS,Faroe Islands
+GE,"GERMANY, FEDERAL REPUBLIC OF",Federal Republic Of Germany
+FM,FEDERATED STATES OF MICRONESIA,Federated States Of Micronesia
+FJ,FIJI,Fiji
+FI,FINLAND,Finland
+FR,FRANCE,France
+FG,FRENCH GUIANA,French Guiana
+FP,FRENCH POLYNESIA,French Polynesia
+FS,FRENCH SOUTHERN AND ANTARCTIC LANDS,French Southern And Antarctic Lands
+GB,GABON,Gabon
+GA,"GAMBIA, THE",Gambia
+GZ,GAZA STRIP,Gaza Strip
+GG,GEORGIA,Georgia
+GC,GERMAN DEMOCRATIC REPUBLIC,German Democratic Republic
+GM,GERMANY,Germany
+GH,GHANA,Ghana
+GI,GIBRALTAR,Gibraltar
+GO,GLORIOSO ISLANDS,Glorioso Islands
+GR,GREECE,Greece
+GL,GREENLAND,Greenland
+GJ,GRENADA,Grenada
+GP,GUADELOUPE,Guadeloupe
+GQ,GUAM,Guam
+GT,GUATEMALA,Guatemala
+GK,GUERNSEY,Guernsey
+GV,GUINEA,Guinea
+PU,GUINEA-BISSAU,Guinea-Bissau
+GY,GUYANA,Guyana
+HA,HAITI,Haiti
+HM,HEARD ISLAND AND MCDONALD ISLANDS,Heard Island And Mcdonald Islands
+HO,HONDURAS,Honduras
+HK,HONG KONG,Hong Kong
+HQ,HOWLAND ISLAND,Howland Island
+HU,HUNGARY,Hungary
+IC,ICELAND,Iceland
+IN,INDIA,India
+ID,INDONESIA,Indonesia
+IR,IRAN,Iran
+IZ,IRAQ,Iraq
+IY,IRAQ-SAUDI ARABIA NEUTRAL ZONE,Iraq-Saudi Arabia Neutral Zone
+EI,IRELAND,Ireland
+IS,ISRAEL,Israel
+IT,ITALY,Italy
+JM,JAMAICA,Jamaica
+JN,JAN MAYEN,Jan Mayen
+JA,JAPAN,Japan
+DQ,JARVIS ISLAND,Jarvis Island
+JE,JERSEY,Jersey
+JQ,JOHNSTON ATOLL,Johnston Atoll
+JO,JORDAN,Jordan
+JU,JUAN DE NOVA ISLAND,Juan De Nova Island
+KZ,KAZAKHSTAN,Kazakhstan
+KE,KENYA,Kenya
+KQ,KINGMAN REEF,Kingman Reef
+KR,KIRIBATI,Kiribati
+KV,KOSOVO,Kosovo
+KU,KUWAIT,Kuwait
+KG,KYRGYZSTAN,Kyrgyzstan
+LA,LAOS,Laos
+LG,LATVIA,Latvia
+LE,LEBANON,Lebanon
+LT,LESOTHO,Lesotho
+LI,LIBERIA,Liberia
+LY,LIBYA,Libya
+LS,LIECHTENSTEIN,Liechtenstein
+LH,LITHUANIA,Lithuania
+LU,LUXEMBOURG,Luxembourg
+MC,MACAU,Macau
+MK,MACEDONIA,Macedonia
+MA,MADAGASCAR,Madagascar
+MI,MALAWI,Malawi
+MY,MALAYSIA,Malaysia
+MV,MALDIVES,Maldives
+ML,MALI,Mali
+MT,MALTA,Malta
+IM,"MAN, ISLE OF","Man, Isle Of"
+RM,MARSHALL ISLANDS,Marshall Islands
+MB,MARTINIQUE,Martinique
+MR,MAURITANIA,Mauritania
+MP,MAURITIUS,Mauritius
+MF,MAYOTTE,Mayotte
+MX,MEXICO,Mexico
+MQ,MIDWAY ISLANDS,Midway Islands
+MD,MOLDOVA,Moldova
+MN,MONACO,Monaco
+MG,MONGOLIA,Mongolia
+MW,MONTENEGRO,Montenegro
+MJ,MONTENEGRO,Montenegro
+MH,MONTSERRAT,Montserrat
+MO,MOROCCO,Morocco
+MZ,MOZAMBIQUE,Mozambique
+BM,BURMA,Myanmar
+WA,NAMIBIA,Namibia
+NR,NAURU,Nauru
+BQ,NAVASSA ISLAND,Navassa Island
+NP,NEPAL,Nepal
+NL,NETHERLANDS,Netherlands
+NA,NETHERLANDS ANTILLES,Netherlands Antilles
+NT,NETHERLANDS ANTILLES,Netherlands Antilles
+NC,NEW CALEDONIA,New Caledonia
+NZ,NEW ZEALAND,New Zealand
+NU,NICARAGUA,Nicaragua
+NG,NIGER,Niger
+NI,NIGERIA,Nigeria
+NE,NIUE,Niue
+NM,No Mans Land,No Mans Land
+NF,NORFOLK ISLAND,Norfolk Island
+KN,"KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",North Korea
+CQ,NORTHERN MARIANA ISLANDS,Northern Mariana Islands
+NO,NORWAY,Norway
+OS,Oceans,Oceans
+MU,OMAN,Oman
+PK,PAKISTAN,Pakistan
+PS,PALAU,Palau
+LQ,PALMYRA ATOLL,Palmyra Atoll
+PM,PANAMA,Panama
+PP,PAPUA NEW GUINEA,Papua New Guinea
+PF,PARACEL ISLANDS,Paracel Islands
+PA,PARAGUAY,Paraguay
+PE,PERU,Peru
+RP,PHILIPPINES,Philippines
+PC,PITCAIRN ISLANDS,Pitcairn Islands
+PL,POLAND,Poland
+PO,PORTUGAL,Portugal
+RQ,PUERTO RICO,Puerto Rico
+QA,QATAR,Qatar
+RE,REUNION,Reunion
+RO,ROMANIA,Romania
+RS,RUSSIA,Russia
+RW,RWANDA,Rwanda
+TB,SAINT BARTHELEMY,Saint Barthelemy
+SH,ST. HELENA,Saint Helena
+SC,ST. KITTS AND NEVIS,Saint Kitts And Nevis
+ST,ST. LUCIA,Saint Lucia
+RN,SAINT MARTIN,Saint Martin
+SB,ST. PIERRE AND MIQUELON,Saint Pierre And Miquelon
+VC,ST. VINCENT AND THE GRENADINES,Saint Vincent And The Grenadines
+WS,SAMOA,Samoa
+SM,SAN MARINO,San Marino
+TP,SAO TOME AND PRINCIPE,Sao Tome And Principe
+SA,SAUDI ARABIA,Saudi Arabia
+SG,SENEGAL,Senegal
+RB,SERBIA,Serbia
+RI,SERBIA,Serbia
+SR,SERBIA,Serbia
+YI,SERBIA AND MONTENEGRO,Serbia And Montenegro
+SE,SEYCHELLES,Seychelles
+SL,SIERRA LEONE,Sierra Leone
+SN,SINGAPORE,Singapore
+LO,SLOVAKIA,Slovakia
+SI,SLOVENIA,Slovenia
+BP,SOLOMON ISLANDS,Solomon Islands
+SO,SOMALIA,Somalia
+SF,SOUTH AFRICA,South Africa
+SX,SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS,South Georgia And The South Sandwich Islands
+KS,"KOREA, REPUBLIC OF",South Korea
+OD,South Sudan,South Sudan
+SP,SPAIN,Spain
+PG,SPRATLY ISLANDS,Spratly Islands
+CE,SRI LANKA,Sri Lanka
+SU,SUDAN,Sudan
+NS,SURINAME,Suriname
+SV,SVALBARD,Svalbard
+WZ,SWAZILAND,Swaziland
+SW,SWEDEN,Sweden
+SZ,SWITZERLAND,Switzerland
+SY,SYRIA,Syria
+TW,TAIWAN,Taiwan
+TI,TAJIKISTAN,Tajikistan
+TZ,TANZANIA,Tanzania
+TH,THAILAND,Thailand
+TT,TIMOR-LESTE,Timor-Leste
+TO,TOGO,Togo
+TL,TOKELAU,Tokelau
+TN,TONGA,Tonga
+TD,TRINIDAD,Trinidad And Tobago
+TE,TROMELIN ISLAND,Tromelin Island
+NQ,TRUST TERRITORY OF THE PACIFIC ISLANDS,Trust Territory Of The Pacific Islands
+TS,TUNISIA,Tunisia
+TU,TURKEY,Turkey
+TX,TURKMENISTAN,Turkmenistan
+TK,TURKS AND CAICOS ISLANDS,Turks And Caicos Islands
+TV,TUVALU,Tuvalu
+UG,UGANDA,Uganda
+UP,UKRAINE,Ukraine
+UF,Undersea Features,Undersea Features
+UU,UNDESIGNATED SOVEREIGNTY,Undesignated Sovereignty
+UR,UNION OF SOVIET SOCIALST REPUBLICS,Union Of Soviet Socialst Republics
+AE,UNITED ARAB EMIRATES,United Arab Emirates
+TC,UNITED ARAB EMIRATES,United Arab Emirates
+UK,UNITED KINGDOM,United Kingdom
+US,UNITED STATES,United States
+UY,URUGUAY,Uruguay
+UZ,UZBEKISTAN,Uzbekistan
+NH,VANUATU,Vanuatu
+VT,VATICAN CITY,Vatican City
+VE,VENEZUELA,Venezuela
+VM,VIETNAM,Vietnam
+VQ,VIRGIN ISLANDS,Virgin Islands
+WQ,WAKE ISLAND,Wake Island
+WF,WALLIS AND FUTUNA,Wallis And Futuna
+WE,WEST BANK,West Bank
+WI,WESTERN SAHARA,Western Sahara
+YM,YEMEN,Yemen
+YS,YEMEN (ADEN),Yemen (Aden)
+YE,YEMEN (SANAA),Yemen (Sanaa)
+YO,YUGOSLAVIA,Yugoslavia
+ZA,ZAMBIA,Zambia
+ZI,ZIMBABWE,Zimbabwe
