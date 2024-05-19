@@ -1,1 +1,1 @@
-# gdelt-files
+# gdelt-support-files
