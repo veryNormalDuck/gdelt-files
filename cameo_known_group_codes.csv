@@ -1,118 +1,117 @@
 Code,Label
-AAM,Al Aqsa Martyrs Brigade
-ABD,Arab Bank for Economic Development in Africa
-ACC,Arab Cooperation Council
-ADB,Asian Development Bank
-AEU,Arab Economic Unity Council
+ANO,Abu Nidal Organization
 AFB,African Development Bank
+AAM,Al Aqsa Martyrs Brigade
 ALQ,Al Qaeda
-AMF,Arab Monetary Fund for Economic and Social Development
 AML,Amal Militia
 AMN,Amnesty International
-AMU,Arab Maghreb Union
-ANO,Abu Nidal Organization
-APE,Org. of Arab Petroleum Exporting Countries (OAPEC)
+ABD,Arab Bank for Economic Development in Africa
+ACC,Arab Cooperation Council
+AEU,Arab Economic Unity Council
 ARL,Arab League
-ASL,South Lebanon Army
-ASN,Association of Southeast Asian Nations (ASEAN)
-ATD,Eastern and Southern African Trade and Development Bank
-BCA,Bank of Central African States (BEAC)
-BIS,Bank for International Settlements
-BTH,Baath Party
-CEM,Common Market for Eastern and Southern Africa
-CEM,Monetary and Economic Community of Central Africa
-CFA,Franc Zone Financial Community of Africa
-CIS,Commonwealth of Independent States
-CMN,Communist
-COE,Council of Europe
-CPA,Cocoa Producer's Alliance
-CPC,Association of Coffee Producing Countries
-CRC,International Fed. of Red Cross and Red Crescent (ICRC)
-CSS,Community of Sahel-Saharan States (CENSAD)
-CWN,Commonwealth of Nations
-DFL,Democratic Front for the Lib. of Palestine (DFLP)
-EBR,European Bank for Reconstruction and Development
-ECA,Economic Community of Central African States
-EEC,European Union
-EFT,European Free Trade Association
-ENN,Ennahda Movement
-FAO,United Nations Food and Agriculture Organization
-FID,International Federation of Human Rights (FIDH)
-FIS,Islamic Salvation Army
-FLN,National Liberation Front (FLN)
-FTA,Fatah
-GCC,Gulf Cooperation Council
+AMU,Arab Maghreb Union
+AMF,Arab Monetary Fund for Economic and Social Development
 GIA,Armed Islamic Group (GIA)
+ADB,Asian Development Bank
+CPC,Association of Coffee Producing Countries
+ASN,Association of Southeast Asian Nations (ASEAN)
+BTH,Baath Party
+BIS,Bank for International Settlements
+BCA,Bank of Central African States (BEAC)
+CPA,Cocoa Producer's Alliance
+CES,Common Market for Eastern and Southern Africa
+CIS,Commonwealth of Independent States
+CWN,Commonwealth of Nations
+CMN,Communist
+CSS,Community of Sahel-Saharan States (CENSAD)
+COE,Council of Europe
+SCE,Council of Security and Cooperation in Europe (OSCE)
+DFL,Democratic Front for the Lib. of Palestine (DFLP)
+RND,Democratic National Rally
+ATD,Eastern and Southern African Trade and Development Bank
+ECA,Economic Community of Central African States
+WAS,Economic Community of West African States (ECOWAS)
+UEM,Economic and Monetary Union of West Africa (UEMOA)
+ENN,Ennahda Movement
+EBR,European Bank for Reconstruction and Development
+EFT,European Free Trade Association
+EEC,European Union
+FTA,Fatah
+CFA,Franc Zone Financial Community of Africa
 GOE,Group of Eight (G-8) (G-7 plus Russia)
 GOS,Group of Seven (G-7)
-GSP,Salafist Group
 GSS,Group of Seventy-Seven (G-77)
-HCH,UN High Commission for Human Rights
-HCR,UN High Commission for Refugees
+GCC,Gulf Cooperation Council
+HMS,Hamas
 HEZ,Hezbullah
 HIP,Highly Indebted Poor Countries (HIPC)
-HMS,Hamas
 HRW,Human Rights Watch
 IAC,Inter-African Coffee Organization (IACO)
+IPU,Inter-Parliamentary Union
 IAD,Intergovernmental Authority on Development (IGAD)
 IAE,International Atomic Energy Agency (IAEA)
-IAF,Islamic Action Front
+ICO,International Cocoa Organization (ICCO)
+JUR,International Commission of Jurists
+ICJ,International Court of Justice (ICJ)
 ICC,International Criminal Court
 ICG,International Crisis Group
-ICJ,International Court of Justice (ICJ)
-ICO,International Cocoa Organization (ICCO)
-IDB,Islamic Development Bank
+CRC,International Fed. of Red Cross and Red Crescent (ICRC)
+FID,International Federation of Human Rights (FIDH)
 IGC,International Grains Council
 IHF,International Helsinki Federation for Human Rights
 ILO,International Labor Organization
 IMF,International Monetary Fund (IMF)
 IOM,International Organization for Migration
-IPU,Inter-Parliamentary Union
-IRC,Red Cross
-ISJ,Palestinian Islamic Jihad
+WCT,International War Crimes Tribunals
 ITP,Interpol
-JUR,International Commission of Jurists
-KDP,Kurdish Democratic Party (KDP)
-KID,United Nations Children?s Fund (UNICEF)
+IAF,Islamic Action Front
+IDB,Islamic Development Bank
+FIS,Islamic Salvation Army
 LBA,Israeli Labor Party
+KDP,Kurdish Democratic Party (KDP)
 LKD,Likud Party
-MBR,Muslim Brotherhood
-MRZ,Meretz Party
 MSF,Medecins Sans Frontieres (Doctors Without Borders)
+MRZ,Meretz Party
+CEM,Monetary and Economic Community of Central Africa
 MSP,Movement of the Society for Peace
-NAT,North Atlantic Treaty Organization (NATO)
+MBR,Muslim Brotherhood
+FLN,National Liberation Front (FLN)
 NEP,New Economic Partnership for Africa?s Development
-NON,Organization of Non-Aligned Countries
-OAS,Organization of American States
+NAT,North Atlantic Treaty Organization (NATO)
+PSE,Occupied Palestinian Territories
+APE,Org. of Arab Petroleum Exporting Countries (OAPEC)
 OAU,Organization of African Unity (OAU)
+OAS,Organization of American States
 OIC,Organization of Islamic Conferences (OIC)
+NON,Organization of Non-Aligned Countries
 OPC,Organization of Petroleum Exporting Countries (OPEC)
-PAP,Pan-African Parliament
-PFL,People's Front for the Liberation of Palestine (PFLP)
+XFM,Oxfam
 PLF,Palestine Liberation Front
 PLO,Palestine Liberation Organization
-PLS,Polisario Guerillas
-PMD,People's Mujahedeen
+ISJ,Palestinian Islamic Jihad
+PAP,Pan-African Parliament
 PRC,Paris Club
-PSE,Occupied Palestinian Territories
+PFL,People's Front for the Liberation of Palestine (PFLP)
+PMD,People's Mujahedeen
+PLS,Polisario Guerillas
 RCR,Red Crescent
-RND,Democratic National Rally
-SAA,South Asian Association
-SAD,Southern African Development Community
-SCE,Council of Security and Cooperation in Europe (OSCE)
+IRC,Red Cross
+GSP,Salafist Group
 SHA,Shas Party
+SAA,South Asian Association
+ASL,South Lebanon Army
 SOT,Southeast Asia Collective Defense Treaty (SEATO)
+SAD,Southern African Development Community
 TAL,Taliban
-UEM,Economic and Monetary Union of West Africa (UEMOA)
+HCH,UN High Commission for Human Rights
+HCR,UN High Commission for Refugees
 UNO,United Nations
+KID,United Nations Children?s Fund (UNICEF)
+FAO,United Nations Food and Agriculture Organization
 WAD,West Africa Development Bank
 WAM,West Africa Monetary and Economic Union
-WAS,Economic Community of West African States (ECOWAS)
 WBK,World Bank
-WCT,International War Crimes Tribunals
 WEF,World Economic Forum
 WFP,World Food Program
 WHO,World Health Organization
-WTO,World Trade Organization
 WTO,World Trade Organization (WTO)
-XFM,Oxfam
